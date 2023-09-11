@@ -3,7 +3,9 @@ Documentation: \
   .https://www.smashingmagazine.com/2020/08/mastering-props-proptypes-react/ \
   .https://reactnative.dev/docs/button \
   .https://legacy.reactjs.org/docs/forms.html \
-  .https://www.pluralsight.com/guides/form-submission-in-reactjs 
+  .https://www.pluralsight.com/guides/form-submission-in-reactjs \
+  .https://reactnative.dev/docs/text \
+  .https://react.dev/reference/react/useState
 
 ### `npm start`
 
