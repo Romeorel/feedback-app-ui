@@ -2,7 +2,7 @@
 -The Application is a Feedback Review UI where people can write a review and give a rating. \
 -The Application calculate the average of the rating. \
 -The Application is showing the number of Feedback. \
--Feedback can be deleted. The number of Feedback will be updated. \ 
+-Feedback can be deleted. The number of Feedback will be updated. \
 -The DOM is not deleted in back end yet. Still Work In Progress.
 
 Documentation: \
