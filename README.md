@@ -2,7 +2,7 @@ Documetation: \
   .https://react-icons.github.io/ \
   .https://www.smashingmagazine.com/2020/08/mastering-props-proptypes-react/ \
   .https://reactnative.dev/docs/button \
-  .https://legacy.reactjs.org/docs/forms.html \
+  .https://legacy.reactjs.org/docs/forms.html 
 
 ### `npm start`
 
