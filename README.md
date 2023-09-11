@@ -15,9 +15,9 @@ Documentation: \
   .https://react.dev/reference/react/useState
 
 
-### 'git clone https://github.com/Romeorel/feedback-app-ui.git'
+### 'git clone' + https://github.com/Romeorel/feedback-app-ui.git
 
-To copy the cource code
+To copy the source code
 
 ### `npm start`
 
