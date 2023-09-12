@@ -1,4 +1,4 @@
-## Description
+## Description (Project still Work In Progress...)
 -The Application is a Feedback Review UI where people can write a review and give a rating. \
 -The Application calculate the average of the rating. \
 -The Application is showing the number of Feedback. \
