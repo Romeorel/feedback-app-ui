@@ -27,4 +27,12 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+If error such as :
+> feedback-app-ui@0.1.0 start
+> react-scripts --openssl-legacy-provider start
+'react-scripts' is not recognized as an internal or external command,
+
+Run:
+### `npm install react-scripts --save`
+
 
