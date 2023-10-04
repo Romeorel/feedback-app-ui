@@ -35,5 +35,5 @@ If error such as :
 Run:
 ### `npm install react-scripts --save`
 
-Run npm start again
+Run 'npm start' again
 
